@@ -1,6 +1,6 @@
 <!-- Export the GIF below in the look you picked, commit it, then: -->
 <p align="center">
-  <img src="blinking-cursor-1920x1080.gif" alt="Blinking Cursor, animated ASCII art" width="720">
+  <img src="blinking-cursor-1920x1080.gif" alt="Blinking Cursor, animated ASCII art" width="820">
 </p>
 
 

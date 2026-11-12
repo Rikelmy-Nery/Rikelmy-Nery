@@ -2,9 +2,10 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-<script type="module" src="https://www.ascii-magic.com/ascii/ascii.js"></script>
-
-<ascii-art piece="harbour-neon-skyline" look="lines"></ascii-art>
+<!-- Export the GIF below in the look you picked, commit it, then: -->
+<p align="center">
+  <img src="assets/harbour-neon-skyline.gif" alt="Neon Harbour Ferry, animated ASCII art" width="720">
+</p>
 
 ###
 

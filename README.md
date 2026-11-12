@@ -1,12 +1,12 @@
+<!-- Export the GIF below in the look you picked, commit it, then: -->
+<p align="center">
+  <img src="blinking-cursor-1920x1080.gif" alt="Blinking Cursor, animated ASCII art" width="720">
+</p>
+
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-<!-- Export the GIF below in the look you picked, commit it, then: -->
-<p align="center">
-  <img src="harbour-neon-skyline-1920x1080.gif" alt="Neon Harbour Ferry, animated ASCII art" width="720">
-</p>
-
 ###
 
 

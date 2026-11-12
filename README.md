@@ -5,9 +5,9 @@
 
 ###
 
-<p align="center">
-  <img src="assets/harbour-neon-skyline.gif" alt="Neon Harbour Ferry, animated ASCII art" width="720">
-</p>
+<script type="module" src="https://www.ascii-magic.com/ascii/ascii.js"></script>
+
+<ascii-art piece="harbour-neon-skyline" look="lines"></ascii-art>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />

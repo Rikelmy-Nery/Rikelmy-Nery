@@ -4,7 +4,7 @@
 
 <!-- Export the GIF below in the look you picked, commit it, then: -->
 <p align="center">
-  <img src="assets/harbour-neon-skyline.gif" alt="Neon Harbour Ferry, animated ASCII art" width="720">
+  <img src="harbour-neon-skyline-1920x1080.gif" alt="Neon Harbour Ferry, animated ASCII art" width="720">
 </p>
 
 ###
